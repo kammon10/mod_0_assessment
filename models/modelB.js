@@ -2,6 +2,7 @@ var myCar = {
   year: 2007,
   make: "Toyota",
   model: "4Runner",
+  condition: "good",
   seats: 6,
   sunroof: true,
   camera: false,
